@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(54, 107, 252);
+    border: 0;
+    padding: 4px 12px;
+    color :white; 
+}
+input{
+    padding: 4px 10px;
+}
+
+.sucesso{
+    color: #28a745;
+
+}
+
+.falha{
+    color: #007bff;
+}
+
+.erro{
+    color: #dc3545;
+}
